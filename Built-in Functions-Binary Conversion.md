@@ -8,10 +8,21 @@ To write a Python program to convert the number **16** into its **binary represe
 2. Use the built-in `bin()` function to convert the number to binary.
 3. Print the result.
 
-## 🧾 Program
+## PROGRAM
 
-Add Code Here
+```
 
-## Output
+print('Natural Numbers are :')
+n=int(input())
+for i in range (1,n+1):
+    print(i)
 
-## Result
+```
+
+
+## OUTPUT
+<img width="584" height="523" alt="image" src="https://github.com/user-attachments/assets/cd13d99d-8d0b-48da-b2c9-700584a6bf49" />
+
+
+## RESULT
+The program was executed successfully
